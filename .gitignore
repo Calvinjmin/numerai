@@ -1,0 +1,7 @@
+# Numerai Specific Files
+v4.*/
+*predictions/
+submission.csv
+
+# Environment Variables
+.env
